@@ -161,6 +161,6 @@ Each URL moves through independent components forming a scalable pipeline.
 - Stores edges in:
 - web_graph_edges.csv
 - Source URL → Target URL
-- - Enables graph visualization of crawled web  
+- Enables graph visualization of crawled web  
 
 ---
